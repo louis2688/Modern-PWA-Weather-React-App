@@ -8,9 +8,10 @@ clone the repo
 
 DEMO
 
-[React Weather App](https://modern-pwa-weather-react-app.netlify.app/)
-Mobile
+Mobile  
 <img src="/public/images/pwa-mobile.png" width="350" title="Weather App">
 
-Desktop
-<img src="/public/images/pwa-desktop.png" width="700" title="Weather App">
+Desktop  
+<img src="/public/images/pwa-desktop.png" width="700" title="Weather App">  
+  
+  [React Weather App](https://modern-pwa-weather-react-app.netlify.app/)
